@@ -25,17 +25,17 @@ class Navbar extends Component {
           <ul className='navbar-nav mx-auto'>
             <li className='nav-item'>
               <Link to='/somos' className='nav-link text-white'>
-                <h4>Somos</h4>
+                <h4>Quienes Somos?</h4>
               </Link>
             </li>
             <li className='nav-item'>
               <Link to='/hacemos' className='nav-link text-white' href='/'>
-                <h4>Hacemos</h4>
+                <h4>Que Hacemos?</h4>
               </Link>
             </li>
             <li className='nav-item'>
               <Link to='ofrecemos' className='nav-link text-white' href='/'>
-                <h4>Ofrecemos</h4>
+                <h4> Que ofrecemos?</h4>
               </Link>
             </li>
             <li className='nav-item'>

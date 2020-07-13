@@ -16,13 +16,16 @@ header input {
   border: 0;
   outline: none;
 }
-
+.container-tutorial-link{
+  align-items: center;
+}
 .click-link-text {
   color: #fca728;
+  
 }
 
 .tutorial-link {
-  text-align: right;
+  text-align: center;
 }
 
 /* ========== RESPONSIVE HOME ========== */
@@ -76,7 +79,6 @@ header input {
   }
 
   .click-link {
-    margin-top: 40px;
     font-size: 18px;
   }
 
@@ -118,7 +120,7 @@ header input {
     margin: 15px;
   }
   .click-link {
-    margin-top: 50px;
+    
     font-size: 20px;
   }
   .logo-tutorial {
@@ -153,7 +155,7 @@ header input {
     margin: 15px;
   }
   .click-link {
-    margin-top: 50px;
+    
     font-size: 25px;
   }
   .logo-tutorial {
@@ -188,8 +190,7 @@ header input {
     margin: 15px;
   }
   .click-link {
-    margin-top: 40px;
-    font-size: 25px;
+    font-size: 20px;
   }
   .logo-tutorial {
     margin-top: 80px;

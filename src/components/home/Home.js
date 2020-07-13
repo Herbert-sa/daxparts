@@ -63,7 +63,7 @@ class Home extends Component {
               </p>
             </Link>
           </div>
-          <div className='container tutorial-link'>
+          <div className='container-tutorial-link'>
             <Link to='/tutorial'>
               <img
                 className='logo-tutorial'
